@@ -1,8 +1,8 @@
 # Project Title: Analysis-on-electrical-vehicles
 
 # Objective :
-To perform Exploratory Data Analysis (EDA) on Electric Vehicle data to identify key factors influencing vehicle performance, energy efficiency, battery usage, charging behavior, and consumer preferences.
-This analysis will help uncover insights that can drive innovation in EV design, optimize battery life, and improve the overall user experience.
+* To perform Exploratory Data Analysis (EDA) on Electric Vehicle data to identify key factors influencing vehicle performance, energy efficiency, battery usage, charging behavior, and consumer preferences.
+* This analysis will help uncover insights that can drive innovation in EV design, optimize battery life, and improve the overall user experience.
 Libraries Used:
 Pandas: For data manipulation and cleaning.
 NumPy: For numerical operations and array handling.
